@@ -42,6 +42,22 @@
 <script type="text/javascript">
     (function () {
         var options = {
+            sms: "+12109510139", // Sms phone number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
             whatsapp: "+1(210) 951-0139", // WhatsApp number
             call_to_action: "Message us", // Call to action
             position: "right", // Position may be 'right' or 'left'
@@ -68,7 +84,7 @@
               <!-- Top Header Content -->
               <div class="top-header-meta text-right"><a href="mailto: info@Goldendoodlesff.com" data-toggle="tooltip" data-placement="bottom" title="info@Goldendoodlesff.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: info@Goldendoodlesff.com</span></a>
                 
-<a href="https://wa.me/+27691329805" data-toggle="tooltip" data-placement="bottom" title="+27691329805" ><i class="fa fa-whatsapp" aria-hidden="true"></i> <span>Whatsapp: +27691329805</span></a>
+<a href="https://wa.me/+12109510139" data-toggle="tooltip" data-placement="bottom" title="+12109510139" ><i class="fa fa-whatsapp" aria-hidden="true"></i> <span>Whatsapp: +12109510139</span></a>
               </div>
             </div>
           </div>
@@ -108,22 +124,23 @@
         <section style="background: wheat;">
             <h1 class="text-center text-capitalize">Get In Touch<br></h1>
             <div class="container">
-                <form id="application-form">
+                <form id="application-form" method="post" action="https://usebasin.com/f/a88710c5ae84
+">
                     <div class="form-group">
                         <div class="form-row">
                             <div class="col">
-                                <p><strong>First Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="" placeholder="Ex. John"></div>
+                                <p><strong>First Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="First Name" placeholder="Ex. John"></div>
                             <div class="col">
-                                <p><strong>Last Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="" placeholder="Ex. Smith"></div>
+                                <p><strong>Last Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="Last Name" placeholder="Ex. Smith"></div>
                         </div>
                     </div>
                     <div class="form-group">
-                        <p><strong>Email&nbsp;</strong><span class="text-danger">*</span></p><input class="form-control" type="email" name="" placeholder="user@domain.com"></div><div class="form-group">
-    <p><strong>Whatsapp Number </strong><span class="text-danger">*</span></p><input type="number" class="form-control" name placeholder="7777777777" /></div><div class="form-group">
-    <p><strong> Name of Puppy </strong><span class="text-danger">*</span></p><input type="text" class="form-control" name placeholder="Relie" /></div>  <div class="form-group">
+                        <p><strong>Email&nbsp;</strong><span class="text-danger">*</span></p><input class="form-control" type="email" required="" name="Email" placeholder="user@domain.com"></div><div class="form-group">
+    <p><strong>Whatsapp Number </strong><span class="text-danger">*</span></p><input type="number" required="" class="form-control" name="Whatsapp Number " placeholder="7777777777" /></div><div class="form-group">
+    <p><strong> Name of Puppy </strong><span class="text-danger">*</span></p><input type="text" required="" class="form-control" name=" Name of Puppy" placeholder="Relie" /></div>  <div class="form-group">
                         <label class="control-label col-md-3 col-sm-3 col-xs-12">Choose Payment Method	</label>
                         <div class="col-md-9 col-sm-9 col-xs-12">
-                          <select class="form-control">
+                          <select class="form-control" name"Payment Method">
                             <option>Paypal</option>
                             <option>CashApp</option>
                             <option>Zelle</option>
@@ -140,7 +157,7 @@
                       <div class="form-group">
                         <label class="control-label col-md-3 col-sm-3 col-xs-12">State</label>
                         <div class="col-md-9 col-sm-9 col-xs-12">
-                          <select class="select2_single form-control" tabindex="-1">
+                          <select class="select2_single form-control" tabindex="-1" name"State">
                             <option></option>
                             <option value="AK">Alaska</option>
                             <option value="HI">Hawaii</option>
@@ -173,14 +190,14 @@
                         </div>
                       </div>
 <div class="form-group">
-    <p><strong>Address </strong><span class="text-danger">*</span></p><input type="text" class="form-control" required name placeholder="Ex. Room No-361, 33/1, 3rd Floor" /></div>
+    <p><strong>Address </strong><span class="text-danger">*</span></p><input type="text"  class="form-control" required name"Address" placeholder="Ex. Room No-361, 33/1, 3rd Floor" /></div>
 <div class="col">
-    <p><strong>Message</strong></p><textarea class="form-control" type="text" required placeholder="Message" name="Qualification"></textarea></div>
+    <p><strong>Message</strong></p><textarea class="form-control" type="text" required placeholder="Message" name="Message"></textarea></div>
                     <div
                         class="form-group justify-content-center d-flex">
                         <div id="submit-btn">
                             <div class="form-row">                  
-<button class="btn btn-primary btn-light m-0 rounded-pill px-4" type="button" style="min-width: 500px;" action method="POST" target="hidden_iframe">Submit</button></div>
+<button class="btn btn-primary btn-light m-0 rounded-pill px-4" type="submit" style="min-width: 500px;" action method="POST" target="hidden_iframe">Submit</button></div>
                         </div>
             </div>
             </form>
