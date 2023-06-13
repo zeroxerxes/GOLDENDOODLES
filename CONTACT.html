@@ -110,22 +110,23 @@
         <section style="background: wheat;">
             <h1 class="text-center text-capitalize">Get In Touch<br></h1>
             <div class="container">
-                <form id="application-form" action="https://usebasin.com/f/14faad254d6f" method="POST">
+                <form id="application-form" method="post" action="https://usebasin.com/f/14faad254d6f
+">
                     <div class="form-group">
                         <div class="form-row">
                             <div class="col">
-                                <p><strong>First Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="" placeholder="Ex. John"></div>
+                                <p><strong>First Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="First Name" placeholder="Ex. John"></div>
                             <div class="col">
-                                <p><strong>Last Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="" placeholder="Ex. Smith"></div>
+                                <p><strong>Last Name</strong>&nbsp;<span class="text-danger">*</span></p><input class="form-control" type="text" required="" name="Last Name" placeholder="Ex. Smith"></div>
                         </div>
                     </div>
                     <div class="form-group">
-                        <p><strong>Email&nbsp;</strong><span class="text-danger">*</span></p><input class="form-control" type="email" name="" placeholder="user@domain.com" required=""></div><div class="form-group">
-    <p><strong>Whatsapp Number </strong><span class="text-danger">*</span></p><input type="number" class="form-control" name placeholder="7777777777" required="" /></div><div class="form-group">
-    <p><strong> Name of Puppy </strong><span class="text-danger">*</span></p><input type="text" class="form-control" name placeholder="Relie" required="" /></div>  <div class="form-group">
+                        <p><strong>Email&nbsp;</strong><span class="text-danger">*</span></p><input class="form-control" type="email" required="" name="Email" placeholder="user@domain.com"></div><div class="form-group">
+    <p><strong>Whatsapp Number </strong><span class="text-danger">*</span></p><input type="number" required="" class="form-control" name="Whatsapp Number " placeholder="7777777777" /></div><div class="form-group">
+    <p><strong> Name of Puppy </strong><span class="text-danger">*</span></p><input type="text" required="" class="form-control" name=" Name of Puppy" placeholder="Relie" /></div>  <div class="form-group">
                         <label class="control-label col-md-3 col-sm-3 col-xs-12">Choose Payment Method	</label>
                         <div class="col-md-9 col-sm-9 col-xs-12">
-                          <select class="form-control">
+                          <select class="form-control" name"Payment Method">
                             <option>Paypal</option>
                             <option>CashApp</option>
                             <option>Zelle</option>
@@ -139,16 +140,50 @@
                         </div>
                       </div>
 
-                     
+                      <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">State</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <select class="select2_single form-control" tabindex="-1" name"State">
+                            <option></option>
+                            <option value="AK">Alaska</option>
+                            <option value="HI">Hawaii</option>
+                            <option value="CA">California</option>
+                            <option value="NV">Nevada</option>
+                            <option value="OR">Oregon</option>
+                            <option value="WA">Washington</option>
+                            <option value="AZ">Arizona</option>
+                            <option value="CO">Colorado</option>
+                            <option value="ID">Idaho</option>
+                            <option value="MT">Montana</option>
+                            <option value="NE">Nebraska</option>
+                            <option value="NM">New Mexico</option>
+                            <option value="ND">North Dakota</option>
+                            <option value="UT">Utah</option>
+                            <option value="WY">Wyoming</option>
+                            <option value="AR">Arkansas</option>
+                            <option value="IL">Illinois</option>
+                            <option value="IA">Iowa</option>
+                            <option value="KS">Kansas</option>
+                            <option value="KY">Kentucky</option>
+                            <option value="LA">Louisiana</option>
+                            <option value="MN">Minnesota</option>
+                            <option value="MS">Mississippi</option>
+                            <option value="MO">Missouri</option>
+                            <option value="OK">Oklahoma</option>
+                            <option value="SD">South Dakota</option>
+                            <option value="TX">Texas</option>
+                          </select>
+                        </div>
+                      </div>
 <div class="form-group">
-    <p><strong>Address </strong><span class="text-danger">*</span></p><input type="text" class="form-control" required="" name="Address" placeholder="Ex. Room No-361, 33/1, 3rd Floor" /></div>
+    <p><strong>Address </strong><span class="text-danger">*</span></p><input type="text"  class="form-control" required name"Address" placeholder="Ex. Room No-361, 33/1, 3rd Floor" /></div>
 <div class="col">
-    <p><strong>Message</strong></p><textarea class="form-control" type="text" required placeholder="Message" name="Message" required=""></textarea></div>
+    <p><strong>Message</strong></p><textarea class="form-control" type="text" required placeholder="Message" name="Message"></textarea></div>
                     <div
                         class="form-group justify-content-center d-flex">
                         <div id="submit-btn">
                             <div class="form-row">                  
-<button class="btn btn-primary btn-light m-0 rounded-pill px-4" type="submit" style="min-width: 500px;"  target="hidden_iframe">Submit</button></div>
+<button class="btn btn-primary btn-light m-0 rounded-pill px-4" type="submit" style="min-width: 500px;" >Submit</button></div>
                         </div>
             </div>
             </form>
