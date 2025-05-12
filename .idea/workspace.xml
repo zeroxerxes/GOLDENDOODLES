@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5e5722d-bf8e-4ab3-9936-f04276c7e342" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AboutGoldendoodles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Affiliations.html" beforeDir="false" afterPath="$PROJECT_DIR$/Affiliations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application.html" beforeDir="false" afterPath="$PROJECT_DIR$/Application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Available.html" beforeDir="false" afterPath="$PROJECT_DIR$/Available.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bringing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bringing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTACT - Copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/CONTACT - Copy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTACT.html" beforeDir="false" afterPath="$PROJECT_DIR$/CONTACT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contract.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contract.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dams.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dams.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guardian.html" beforeDir="false" afterPath="$PROJECT_DIR$/Guardian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NUVET.html" beforeDir="false" afterPath="$PROJECT_DIR$/NUVET.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PAWTREE.html" beforeDir="false" afterPath="$PROJECT_DIR$/PAWTREE.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Past.html" beforeDir="false" afterPath="$PROJECT_DIR$/Past.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reserving.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reserving.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retired.html" beforeDir="false" afterPath="$PROJECT_DIR$/Retired.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Studs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training.html" beforeDir="false" afterPath="$PROJECT_DIR$/Training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Warranty.html" beforeDir="false" afterPath="$PROJECT_DIR$/Warranty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/rules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthy.html" beforeDir="false" afterPath="$PROJECT_DIR$/healthy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2x08aEBjA4nA9wUdEC5nYoSYekw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5e5722d-bf8e-4ab3-9936-f04276c7e342" name="Changes" comment="" />
+      <created>1747063695957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747063695957</updated>
+      <workItem from="1747063698474" duration="607000" />
+      <workItem from="1747071909754" duration="224000" />
+      <workItem from="1747072974221" duration="1089000" />
+      <workItem from="1747076070514" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
